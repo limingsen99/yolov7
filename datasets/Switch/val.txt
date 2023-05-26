@@ -1,0 +1,15 @@
+F:\Python\yolov7-main\datasets\Switch\images\val\00049.jpg
+F:\Python\yolov7-main\datasets\Switch\images\val\00050.jpg
+F:\Python\yolov7-main\datasets\Switch\images\val\00051.jpg
+F:\Python\yolov7-main\datasets\Switch\images\val\00052.jpg
+F:\Python\yolov7-main\datasets\Switch\images\val\00053.jpg
+F:\Python\yolov7-main\datasets\Switch\images\val\00054.jpg
+F:\Python\yolov7-main\datasets\Switch\images\val\00055.jpg
+F:\Python\yolov7-main\datasets\Switch\images\val\00056.jpg
+F:\Python\yolov7-main\datasets\Switch\images\val\00057.jpg
+F:\Python\yolov7-main\datasets\Switch\images\val\00058.jpg
+F:\Python\yolov7-main\datasets\Switch\images\val\00059.jpg
+F:\Python\yolov7-main\datasets\Switch\images\val\00060.jpg
+F:\Python\yolov7-main\datasets\Switch\images\val\00061.jpg
+F:\Python\yolov7-main\datasets\Switch\images\val\00062.jpg
+F:\Python\yolov7-main\datasets\Switch\images\val\00063.jpg
